@@ -6,7 +6,7 @@ Attached Jupyter Notebook is a Quantitative Risk Model using cutting-edge techno
 
 ##### * Computing shrinkage estimates of the covariance matrix  (Ledoit, O. and Wolf, M. - 2003)<br>
 
-##### * Optimal  Portfolio returns are the training values for a neural network (Keras: The Python Deep Learning library)<br>
+##### * The optimal portfolios are the training values for a neural network (Keras: The Python Deep Learning library)<br>
 
 
 prerequisite:

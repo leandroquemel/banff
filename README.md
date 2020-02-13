@@ -3,11 +3,11 @@
 Quantitative Risk Management using cutting-edge technologies such as neural networks to conduct portfolio rebalancing.
 Below implementations can be found in the attached notebook. Techniques Applied to the Brazilian Market.
 
-#### Efficient Frontier using The Critical Line Algorithm<br>
+##### * Efficient Frontier using the Critical Line Algorithm (CLA)<br>
 
-#### Computing shrinkage estimates of the covariance matrix<br>
+##### * Computing shrinkage estimates of the covariance matrix (Ledoit, O. and Wolf, M. (2003))<br>
 
-#### Portfolio weights are the training values for a neural network<br>
+##### * Portfolio weights are the training values for a neural network<br>
 
 
 prerequisite:

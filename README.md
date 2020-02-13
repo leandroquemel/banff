@@ -7,7 +7,7 @@ Below implementations can be found in the attached notebook. Techniques Applied 
 
 ##### * Computing shrinkage estimates of the covariance matrix - Ledoit, O. and Wolf, M. (2003)<br>
 
-##### * Portfolio weights are the training values for a neural network<br>
+##### * Portfolio weights are the training values for a neural network (Keras: The Python Deep Learning library)<br>
 
 
 prerequisite:

@@ -5,7 +5,7 @@ Below implementations can be found in the attached notebook. Techniques Applied 
 
 ##### * Efficient Frontier using the Critical Line Algorithm (CLA)<br>
 
-##### * Computing shrinkage estimates of the covariance matrix (Ledoit, O. and Wolf, M. (2003))<br>
+##### * Computing shrinkage estimates of the covariance matrix - Ledoit, O. and Wolf, M. (2003)<br>
 
 ##### * Portfolio weights are the training values for a neural network<br>
 

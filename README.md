@@ -16,7 +16,7 @@ pip install PyPortfolioOpt
 pip install pyfolio
 pip install keras
 ```
-references:
-[DataCamp] (https://www.datacamp.com/courses/deep-learning-in-python)<br>
-[DataCamp] (https://www.datacamp.com/courses/quantitative-risk-management-in-python)<br>
-(http://www.ledoit.net/honey.pdf)<br>
+references: <br>
+DataCamp: https://www.datacamp.com/courses/deep-learning-in-python<br>
+DataCamp: https://www.datacamp.com/courses/quantitative-risk-management-in-python<br>
+Covariance Matrix: http://www.ledoit.net/honey.pdf<br>

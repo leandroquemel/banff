@@ -1,7 +1,7 @@
 # Quantitative Portfolio Optimization
 
 Quantitative Risk Management using cutting-edge technologies such as neural networks to conduct portfolio rebalancing.
-Below implementations can be found in the attached notebook.
+Below implementations can be found in the attached notebook. Techniques Applied to the Brazilian Market.
 
 #### Efficient Frontier using The Critical Line Algorithm<br>
 

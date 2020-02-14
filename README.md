@@ -1,6 +1,6 @@
 # Quantitative Portfolio Optimization
 
-Attached Jupyter Notebook is a Quantitative Risk Model using cutting-edge technologies such as neural networks to conduct portfolio rebalancing. Techniques Applied to the Brazilian Market.
+Attached Jupyter Notebook is a Quantitative Risk Model using cutting-edge technologies such as neural networks to conduct portfolio rebalancing. Techniques applied to the Brazilian Market.
 
 ##### * Efficient Frontier using the Critical Line Algorithm (CLA)<br>
 
